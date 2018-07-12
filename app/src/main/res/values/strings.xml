@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="text1">You can publish up to five shortcuts (static shortcuts and dynamic shortcuts combined) at a time for your app. Some launcher apps, however, don\'t show every static and dynamic shortcut you\'ve created for your app.</string>
+    <string name="text2">There is no limit to the number of pinned shortcuts to your app that users can create. Even though your app cannot remove pinned shortcuts, it can still disable them.))</string>
+    <string name="text3">Static shortcuts should provide links to generic actions within your app, and these actions should remain consistent over the lifetime of your app\'s current version. Good candidates for static shortcuts include viewing sent messages, setting an alarm, and displaying a user\'s exercise activity for the day.</string>
+</resources>
